@@ -63,7 +63,7 @@ Pharmaceutical companies need to track drug sales across multiple dimensions to:
 ---
 
 ## Dashboard Preview
-![Dashboard](/Users/harshithasunkara/Documents/Pharma_PowerBI/Dashboard.png)
+![Dashboard](Dashboard/Dashboard.png)
 
 ---
 
